@@ -1,0 +1,1 @@
+WebApp para administrar tareas pendientes, agregas tareas y se agrupan por orden de fechas, su configuracion se mantiene persistente ya que guarda los datos en el localStorange.
